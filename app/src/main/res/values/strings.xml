@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ActiveReads</string>
+    <string-array name="itemCategory">
+        <item>Paid</item>
+        <item>Free</item>
+    </string-array>
+    <string-array name="Semester">
+        <item>Select Semester</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="CollegeList">
+        <item>Select College</item>
+        <item>Anand College Of Engineering</item>
+        <item>Chandigarh University</item>
+        <item>Eshan College Of Engineering</item>
+        <item>HBTU</item>
+        <item>HINDUSTAN COLLEGE OF SCIENCE AND TECHNOLOGY</item>
+        <item>TCE Madurai</item>
+
+    </string-array>
+
+    <string-array name="BranchList">
+        <item>Select Stream</item>
+        <item>Bio-Chemical Engg.</item>
+        <item>BCA</item>
+        <item>BE</item>
+        <item>BBA</item>
+        <item>B.Com</item>
+        <item>B.Pharma</item>
+        <item>Civil Engg.</item>
+        <item>Chemical Engg.</item>
+        <item>Computer Science</item>
+        <item>Electronics Engg.</item>
+        <item>Electrical Engg.</item>
+        <item>Food Technology</item>
+        <item>Information Technology</item>
+        <item>Leather Technology</item>
+        <item>Oil Technology</item>
+        <item>Paint Technology</item>
+        <item>Plastic Technology</item>
+    </string-array>
+</resources>
